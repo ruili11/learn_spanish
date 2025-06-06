@@ -1,45 +1,44 @@
-# 2-Month Beginner Spanish Learning Schedule
-
-## Weekly Structure Summary
-- Daily (20–30 min): YouTube lessons + vocabulary + speaking aloud
-- Weekly (1–2x): Review + writing/speaking practice
-- Biweekly: Talk with native speaker (1 hour)
-- Biweekly: Grocery store challenge (mini-task)
+# 2-Month Beginner Spanish Learning Schedule (Updated)
 
 ## Week 1–2: Foundations
-- Goal: Alphabet, greetings, numbers, question words.
-- YouTube: [Spanish for Beginners 1 by The Spanish Dude](https://www.youtube.com/watch?v=8mVEGfH4s5g)
-- Practice: Speak alphabet and basic phrases daily.
-- Write: Basic sentences (e.g., name, origin).
-- Grocery Challenge 1: Say 'Hola' and 'Gracias' to cashier.
-- Native Speaker Meetup: Practice greetings and small talk.
+- **Goal**: Learn the alphabet, greetings, numbers, and question words.
+- **YouTube**:
+  - [Spanish for Beginners 1 by The Spanish Dude](https://www.youtube.com/watch?v=SfnoP3by3jc)
+- **Practice**:
+  - Speak the alphabet and basic phrases daily.
+  - Write basic sentences (e.g., name, origin).
+- **Grocery Challenge 1**: Say “Hola” and “Gracias” to the cashier.
+- **Native Speaker Meetup**: Practice greetings and small talk.
 
 ## Week 3–4: Build a Base
-- Goal: Present tense verbs, colors, food, family.
-- YouTube: [Verb Conjugation – Señor Jordan](https://www.youtube.com/watch?v=ZZjzZTSK6o0), [Food Vocabulary](https://www.youtube.com/watch?v=XmCgUjNEPJI)
-- Practice: Verb drills and simple sentences.
-- Write: Describe family and favorite foods.
-- Grocery Challenge 2: Ask '¿Cuánto cuesta?'
-- Native Speaker Meetup: Ask about their family or food.
+- **Goal**: Learn present tense verbs, colors, food, and family vocabulary.
+- **YouTube**:
+  - [Present Tense -AR Verbs by Señor Jordan](https://www.youtube.com/watch?v=gmjWWphCx5k)
+  - [Food and Drinks Vocabulary in Spanish](https://www.youtube.com/watch?v=K6Rek-ReQIg)
+- **Practice**:
+  - Verb drills and simple sentences.
+  - Describe your family and favorite foods in writing.
+- **Grocery Challenge 2**: Ask “¿Cuánto cuesta?” (How much is it?)
+- **Native Speaker Meetup**: Discuss family or food topics.
 
 ## Week 5–6: Expand Topics
-- Goal: Days, months, routines, time, weather.
-- YouTube: [Daily Routines Vocabulary](https://www.youtube.com/watch?v=xV1KnGpFvDA), [Telling Time](https://www.youtube.com/watch?v=z6ePvz1F2d0)
-- Practice: Describe your daily routine and weather.
-- Write: A paragraph about your day/week.
-- Grocery Challenge 3: Ask '¿Dónde está la leche?'
-- Native Speaker Meetup: Describe your day.
+- **Goal**: Learn days, months, daily routines, telling time, and weather expressions.
+- **YouTube**:
+  - [Learn Daily Routine in Spanish](https://www.youtube.com/watch?v=li7lLHOqdqw)
+  - [Telling Time in Spanish - Explanation](https://www.youtube.com/watch?v=PvPh6-9BgQU)
+- **Practice**:
+  - Describe your daily routine and the weather.
+  - Write a paragraph about your day or week.
+- **Grocery Challenge 3**: Ask “¿Dónde está la leche?” (Where is the milk?)
+- **Native Speaker Meetup**: Describe your day in Spanish.
 
 ## Week 7–8: Real-Life Application
-- Goal: Review + apply everything + real conversations
-- YouTube: [Listening Practice – Dreaming Spanish](https://www.youtube.com/watch?v=xvbnv--ZlIQ), [Q&A Practice](https://www.youtube.com/watch?v=_VkLxKUrFYQ)
-- Practice: Short life stories, dialogs.
-- Write: Journal entries about your day or learning.
-- Grocery Challenge 4: Ask '¿Tiene pan integral?'
-- Native Speaker Meetup: 15–20 min conversation.
-
-## Additional Tools
-- [Duolingo](https://www.duolingo.com/) – daily gamified learning
-- Anki/Quizlet – 5–10 new words a day
-- [Speechling](https://speechling.com/) or voice recordings for speaking practice
-# learn_spanish
+- **Goal**: Review and apply all learned material; engage in real conversations.
+- **YouTube**:
+  - [Beginner Dreaming Spanish Playlist](https://www.youtube.com/playlist?list=PLlpPf-YgbU7HWrrenMs3-nuhxgzyAiA-C)
+  - [120 Questions and Answers in Spanish](https://www.youtube.com/watch?v=v-8NQl_uaqw)
+- **Practice**:
+  - Tell short stories from your life using learned vocabulary.
+  - Write journal entries about your day or learning experiences.
+- **Grocery Challenge 4**: Ask “¿Tiene pan integral?” (Do you have whole wheat bread?)
+- **Native Speaker Meetup**: Engage in a 15–20 minute conversation on planned topics.
